@@ -1,2 +1,4 @@
-# Scorpian-GAN-staractart
-Hackathon Project
+# Scorpian's GAN-stract art
+
+## About 
+

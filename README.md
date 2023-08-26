@@ -13,7 +13,7 @@ The way we approaced this was by creating two models- a generator and discrimina
 
 A colab notebook has been provided to recreate the following experiment
 
-'''
-
-'''
+```
+AbstractArtCTP.ipynb
+```
 <br>

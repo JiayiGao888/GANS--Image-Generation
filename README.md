@@ -6,10 +6,10 @@ GAN-abstract art is a project developed by team scorpian which attempts to make 
 
 
 
-## Team:
-Jiayi Gao
-Rami Khan
-Henry Torres
+## Team Members:
+#### Jiayi Gao
+#### Rami Khan
+#### Henry Torres
 
 
  

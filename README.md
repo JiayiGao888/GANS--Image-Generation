@@ -2,9 +2,12 @@
 
 ## About 
 This Project is for CUNY Tech Prep Hackathon 
-Team:
+
+
+## Team:
 Jiayi Gao
 Rami Khan
+Henry Torres
 
 
 GAN-abstract art is a project developed by team scorpian which attempts to make an abstract art. The goal is to utilize the model for artists in idea generation when painting. Additionally, we wanted to see how a machine can be trained to recognize patterns in seemingly non-seqeuential work like abstract art. 
